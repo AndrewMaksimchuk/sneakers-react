@@ -34,7 +34,7 @@ function Home({
 						: "Всі кросівки"}
 				</h1>
 				<div className="search-block d-flex">
-					<img src="/img/search.svg" alt="search" />
+					<img src="img/search.svg" alt="search" />
 					<input
 						onChange={onChangeSearchInput}
 						type="text"

@@ -13,7 +13,7 @@ function Header(props) {
 						width={40}
 						height={40}
 						className="mr-15"
-						src="/img/logo.png"
+						src="img/logo.png"
 						alt="logo"
 					/>
 					<div>
@@ -29,7 +29,7 @@ function Header(props) {
 						width={18}
 						height={18}
 						className="mr-10"
-						src="/img/cart.svg"
+						src="img/cart.svg"
 						alt="Відобразити корзину"
 					/>
 					<span>{totalPrice} грн</span>
@@ -40,7 +40,7 @@ function Header(props) {
 							className="cu-p"
 							width={18}
 							height={18}
-							src="/img/favorite.svg"
+							src="img/favorite.svg"
 							alt="Перейти на сторінку з вподобайками"
 						/>
 					</Link>
@@ -51,7 +51,7 @@ function Header(props) {
 							className="cu-p"
 							width={18}
 							height={18}
-							src="/img/user.svg"
+							src="img/user.svg"
 							alt="Перейти на сторінку користувача"
 						/>
 					</Link>
